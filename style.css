@@ -1,3 +1,13 @@
 body{
 	background: red;
 }
+
+header{
+	background: green;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+footer{
+	height: 500px;
+}
